@@ -1,0 +1,9 @@
+date = 2021-01-04 close= 10813.78, change= -0.29, previous close= 10814.07
+volume = 429753820, turnover= 1177178636, trades_num= 40101
+
+date = 2021-01-05 close= 10829.96, change= 0.15, previous close= 10829.81
+volume = 491861419, turnover= 1376793213, trades_num= 41655
+
+date = 2021-01-06 close= 10952.14, change= 1.13, previous close= 10951.01
+volume = 464770763, turnover= 1387882320, trades_num= 42539
+
